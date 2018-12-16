@@ -2,19 +2,53 @@
 
 <details><summary>Heading2.1</summary>
     <ul>
-    <details><summary>Heading3.1</summary>
+    
+    <details><summary>Books</summary>
     <ul>
         <li>Item1</li>
 	<li>Item2</li>
 	<li>Item3</li>
     </ul>
     </details>
-    <details><summary>Heading3.2</summary>
+
+    <details><summary>Courses and Youtube Playlists</summary>
     <ul>
         <li>Item1</li>
 	<li>Item2</li>
 	<li>Item3</li>
     </ul>
-    </details>	
+    </details>
+    
+    <details><summary>Talks and Videos</summary>
+    <ul>
+        <li>Item1</li>
+	<li>Item2</li>
+	<li>Item3</li>
+    </ul>
+    </details>
+    
+    <details><summary>Papers</summary>
+    <ul>
+        <li>Item1</li>
+	<li>Item2</li>
+	<li>Item3</li>
+    </ul>
+    </details>
+
+    <details><summary>Interesting: Websites, Blogs, and Reads</summary>
+    <ul>
+        <li>Item1</li>
+	<li>Item2</li>
+	<li>Item3</li>
+    </ul>
+    </details>		
+
+    <details><summary>Notebooks</summary>
+    <ul>
+        <li>Item1</li>
+	<li>Item2</li>
+	<li>Item3</li>
+    </ul>
+    </details>		
     </ul>
 </details>
