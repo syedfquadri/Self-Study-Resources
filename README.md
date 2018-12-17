@@ -56,7 +56,7 @@
 -->
 ## Uncatogorized list
 <ul>
-<li>111</li>
+<li><a href="https://www.fast.ai/">Fast.ai</a>: <a href="https://course.fast.ai/ml">Intro to ML</a> | <a href="https://course.fast.ai/">Practical Deep Learning For Coders (Part I)</a> | <a href="https://course.fast.ai/part2.html"> Cutting Edge Deep Learning For Coders (Part II)</a> | <a href="https://www.fast.ai/topics/">Blog</a> by <a href="https://twitter.com/jeremyphoward?lang=en"><i>Jeremy Howards</i></a> & <a href="https://twitter.com/math_rachel?lang=en"><i>Rachel Thomas</i></a></li>
 <li>222</li>
 <li>333</li>
 </ul>
