@@ -1,6 +1,7 @@
 # Self-Study-Resources
 
-<details><summary>Heading2.1</summary>
+<!--
+    <details><summary>Heading2.1</summary>
     <ul>
     
     <details><summary>Books</summary>
@@ -51,4 +52,11 @@
     </ul>
     </details>		
     </ul>
-</details>
+</details> 
+-->
+## Uncatogorized list
+<ul>
+<li>111</li>
+<li>222</li>
+<li>333</li>
+</ul>
