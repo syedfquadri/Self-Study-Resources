@@ -63,4 +63,6 @@
 <li><a href="https://www.deeplearning.ai/machine-learning-yearning/">Machine Learning Yearning</a> by <i>Andrew NG</i></li>
 <li><a href="http://www.cs.ubbcluj.ro/~gabis/DocDiplome/SistemeDeRecomandare/Recommender_systems_handbook.pdf">Recommendation Systems Handbook</a></li>
 <li><a href="http://themlbook.com/wiki/doku.php">The 100 pages ML Book</a></li>
+<li><a href="https://github.com/afshinea/stanford-cs-229-machine-learning">Machine Learning cheatsheets</a> for Stanford's CS 229 [<a href="https://stanford.edu/~shervine/teaching/cs-229.html"> Dedicated Website</a>]</li>
+<li><a href="https://github.com/afshinea/stanford-cs-230-deep-learning">Deep Learning cheatsheets</a> for Stanford's CS 230 [<a href="https://stanford.edu/~shervine/teaching/cs-230.html"> Dedicated Website</a>]</li>
 </ul>
