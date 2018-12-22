@@ -66,5 +66,5 @@
 <li><a href="https://github.com/afshinea/stanford-cs-229-machine-learning">Machine Learning cheatsheets</a> for Stanford's CS 229 [<a href="https://stanford.edu/~shervine/teaching/cs-229.html">Dedicated Website</a>]</li>
 <li><a href="https://github.com/afshinea/stanford-cs-230-deep-learning">Deep Learning cheatsheets</a> for Stanford's CS 230 [<a href="https://stanford.edu/~shervine/teaching/cs-230.html">Dedicated Website</a>]</li>
 <li><a href="http://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/understanding-machine-learning-theory-algorithms.pdf">Understanding Machine Learning: From Theory to Algorithms</a></li>
-<li>lalalalalalalala</li>
+<li>lalalalaladadaalalala</li>
 </ul>
