@@ -70,4 +70,9 @@
 <li><a href="https://openreview.net/forum?id=ryGs6iA5Km">How Powerful are Graph Neural Networks?</a> [<a href="https://openreview.net/pdf?id=ryGs6iA5Km">PDF</a>]</li>
 <li><a href="https://www.manning.com/books/machine-learning-in-action">Machine Learning in action</a> [<a href="http://www2.ift.ulaval.ca/~chaib/IFT-4102-7025/public_html/Fichiers/Machine_Learning_in_Action.pdf">PDF</a>]</li>
 <li><a href="https://arxiv.org/abs/1404.7828">Deep Learning in Neural Networks: An overview</a></li>
+<li><a href="https://tech.iheart.com/a-survey-of-acm-recsys-2018-8679ed021904?_referrer=twitter">A survey of RecSys 2018</a></li>
+<li><a href="https://automatetheboringstuff.com/">Automate the Boring Stuff with Python</a></li>
+<li><a href="explained.ai">Explained.ai</a></li>
+<li><a href="deeplearning.net">DeepLearning.net</a></li>
+<li><a href="https://deeplearning.mit.edu/">DeepLearning MIT</a></li>
 </ul>
