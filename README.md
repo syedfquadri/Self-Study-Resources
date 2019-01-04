@@ -75,4 +75,5 @@
 <li><a href="explained.ai">Explained.ai</a></li>
 <li><a href="deeplearning.net">DeepLearning.net</a></li>
 <li><a href="https://deeplearning.mit.edu/">DeepLearning MIT</a></li>
+<li><a href="https://github.com/naganandy/graph-based-deep-learning-literature/tree/master/conference-journal-articles">Graph based Deep Learning Repo</a></li>
 </ul>
