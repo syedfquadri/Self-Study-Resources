@@ -56,6 +56,7 @@
 -->
 ## Uncatogorized list
 <ul>
+<li><a href="http://index-of.es/Varios-2/Hands%20on%20Machine%20Learning%20with%20Scikit%20Learn%20and%20Tensorflow.pdf"> Hands on ML with scikit Learn and Tensorflow</a></li>
 <li><a href="https://www.fast.ai/">Fast.ai</a>: <a href="https://course.fast.ai/ml">Intro to ML</a> | <a href="https://course.fast.ai/">Practical Deep Learning For Coders (Part I)</a> | <a href="https://course.fast.ai/part2.html"> Cutting Edge Deep Learning For Coders (Part II)</a> | <a href="https://course.fast.ai/">Practical Deep Learning For Coders V3 (2019)</a> | <a href="https://www.fast.ai/topics/">Blog</a> by <a href="https://twitter.com/jeremyphoward?lang=en"><i>Jeremy Howards</i></a> & <a href="https://twitter.com/math_rachel?lang=en"><i>Rachel Thomas</i></a></li>
 <li>Google Dev: <a href="https://developers.google.com/machine-learning/crash-course/">ML Course</a></li>
 <li>AWS: <a href="https://aws.amazon.com/training/course-descriptions/machine-learning/">ML Course</a></li>
